@@ -5,8 +5,8 @@ If you want to change the Argo CD Notification channel, just change the <your-sl
 
 
 
-- Want to know about Argo CD? [See here](https://www.notion.so/bscnote/EKS-Cluster-Argo-CD-614a0fd3b10e4e7eb764c84c11533661).
+- Want to know about Argo CD? [See here](https://medium.com/finda-tech/eks-cluster%EC%97%90-argo-cd-%EB%B0%B0%ED%8F%AC-%EB%B0%8F-%EC%84%B8%ED%8C%85%ED%95%98%EB%8A%94-%EB%B2%95-eec3bef7b69b).
 
-- Want to know about Argo CD Notification? [See here](https://www.notion.so/bscnote/Argo-CD-Notification-9aef17fd80a740af8cad2fe2f1619003).
+- Want to know about Argo CD Notification? [See here](https://medium.com/finda-tech/argo-cd-notification-b85bc36e709).
 
 
